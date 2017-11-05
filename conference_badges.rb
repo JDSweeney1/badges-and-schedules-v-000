@@ -1,8 +1,7 @@
 # Write your code here.
-def badge_maker(array)
-  array.each do | s |
-    puts "hello, my name is #{s}."
-  end
+def badge_maker(names)
+    puts "hello, my name is #{name}."
+
 end
 
 def batch_badge_creator(array)
