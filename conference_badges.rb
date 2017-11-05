@@ -17,3 +17,4 @@ end
 def printer
   batch_badge_creator.each {|phrase| puts "#{phrase}"}
   assign_rooms.each {|phrase| puts "#{phrase}"}
+end
